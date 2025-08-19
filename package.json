@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^7.4.2",
+    "@capawesome-team/capacitor-contacts": "^7.6.1"
+  }
+}
